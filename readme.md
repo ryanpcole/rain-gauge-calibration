@@ -1,0 +1,1 @@
+Note: Leave Empty rain-gauge-calibration.ino file in folder otherwise the sketch won't build
