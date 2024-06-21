@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/ttyUSB0",
-    "sketch": "event-logger.ino"
+    "sketch": "tkinter-input-blink.ino"
 }
